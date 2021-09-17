@@ -1,0 +1,72 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.37.0-wmf.20</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>AccessibleComputing</title>
+    <ns>0</ns>
+    <id>10</id>
+    <redirect title="Computer accessibility" />
+    <revision>
+      <id>1002250816</id>
+      <parentid>854851586</parentid>
+      <timestamp>2021-01-23T15:15:01Z</timestamp>
+      <contributor>
+        <username>Elli</username>
+        <id>20842734</id>
+      </contributor>
+      <minor />
+      <comment>shel</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="111" xml:space="preserve">one two one two three four
+      </text>
+      <sha1>kmysdltgexdwkv2xsml3j44jb56dxvn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Anarchism</title>
+    <ns>0</ns>
+    <id>12</id>
+    <revision>
+      <id>18201</id>
+      <parentid>332419362</parentid>
+      <timestamp>2002-02-25T15:00:22Z</timestamp>
+      <contributor>
+        <username>Conversion script</username>
+        <id>1226483</id>
+      </contributor>
+      <minor />
+      <comment>Automated conversion</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9546" xml:space="preserve">
+one two four five five five five five five five two six
+</text>
+      <sha1>o139okh8ak7f6x7f6hwdogun10kucpy</sha1>
+    </revision>
+    <revision>
+      <id>43618</id>
+      <parentid>42743</parentid>
+      <timestamp>2002-04-02T09:55:36Z</timestamp>
+      <contributor>
+        <username>Lee Daniel Crocker</username>
+        <id>43</id>
+      </contributor>
+      <comment>*</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="11342" xml:space="preserve">two four four four four five four six</text>
+      <sha1>a0m28uiexf1udd7pibg63tyt0qhreqw</sha1>
+    </revision></page>
